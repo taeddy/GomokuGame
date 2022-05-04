@@ -1,3 +1,3 @@
 # GomokuGame
 
-This is Gomoku Game with JAVA language
+Gomoku Game with JAVA language
